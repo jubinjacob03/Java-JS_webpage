@@ -46,6 +46,18 @@ A streaming webpage developed on Apache NetBeans IDE 15, using Java &amp; JavaSc
 - The website will be now <em><strong>live</em></strong>.
 - To close the live server, navigate to the server pane under working pane and click the stop button or directly close the browser.
 
+# Output
+
+![Screenshot 2023-07-02 210126](https://github.com/jubinjacob03/Java-JS_webpage/assets/118928433/e11e23c2-ccd1-41a3-bb4c-67385082e411)<br/><br/>
+![Screenshot 2023-07-02 210201](https://github.com/jubinjacob03/Java-JS_webpage/assets/118928433/b8aafd11-e14e-4169-ab3e-788980eb776b)<br/><br/>
+![Screenshot 2023-07-02 210215](https://github.com/jubinjacob03/Java-JS_webpage/assets/118928433/ac2e1649-cbba-4465-a8fa-4712d59f3d46)<br/><br/>
+![Screenshot 2023-07-02 210228](https://github.com/jubinjacob03/Java-JS_webpage/assets/118928433/83b083c1-9179-429d-918b-1b22cb07168c)
+
+
+
+
+
+
 # Help
 
 :link: Major components in DIR :
